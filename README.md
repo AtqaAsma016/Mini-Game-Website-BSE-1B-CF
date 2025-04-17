@@ -14,6 +14,21 @@ Each game is implemented in its own HTML file, and all are accessible through th
 
 ##  Project Structure
 
+## 📁 Project Structure
+
+```
+Mini Game Website/
+│
+├── Basic Games.html              # Main homepage (game hub)
+├── Number Guesser.html           # Number Guessing Game
+├── tic tac toe.html              # Tic Tac Toe Game
+├── Rock Paper Scissor.html       # Rock Paper Scissors Game
+│
+├── tic tac toe.png               # Tic Tac Toe Game image
+├── number guessing.png           # Number Guessing Game image
+└── rock paper scissors.jpg       # Rock Paper Scissors Game image
+```
+
 
 ##  Technologies Used
 
