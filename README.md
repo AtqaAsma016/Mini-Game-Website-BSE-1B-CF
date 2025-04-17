@@ -41,5 +41,4 @@ Mini Game Website/
 - Simple UI with game images and buttons
 - Interactive gameplay with feedback
 - Contact section and About page
-- Social media links included
 
