@@ -14,7 +14,6 @@ Each game is implemented in its own HTML file, and all are accessible through th
 
 ##  Project Structure
 
-## 📁 Project Structure
 
 ```
 Mini Game Website/
